@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23124793705",
+    "project_id": "baza-danych-uj-cwiczenia",
+    "storage_bucket": "baza-danych-uj-cwiczenia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23124793705:android:e6aca4765ba7a5830445f8",
+        "android_client_info": {
+          "package_name": "pl.baza_danych_uj_cwiczenia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA22k1h2k0KHCJXYAFqV5GW64zIQcF9Qis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
