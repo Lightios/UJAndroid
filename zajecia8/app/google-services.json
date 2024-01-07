@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "812184143136",
+    "project_id": "logowanie-uj-android",
+    "storage_bucket": "logowanie-uj-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812184143136:android:c7dd181fe9cb57710f4345",
+        "android_client_info": {
+          "package_name": "com.example.logowanieirejestracja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812184143136-8v9ulurvgih23raldlq1n5624qj5c1go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logowanieirejestracja",
+            "certificate_hash": "7dba0208b99122ed504e8c7693c0aebc34970b4c"
+          }
+        },
+        {
+          "client_id": "812184143136-m0jsvil5u51l2r5f0c5a46cq4ec03e82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhDrTOSDDavpe1gshge29cK9Ljcpd608Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812184143136-m0jsvil5u51l2r5f0c5a46cq4ec03e82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
